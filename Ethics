@@ -1,3 +1,19 @@
 ethics.html
 about.html
 <link rel="stylesheet" href="styles.css">
+<h1>IT Ethics</h1>
+
+<p>Developers must follow ethical guidelines such as protecting user data,
+ensuring privacy, and avoiding bias in algorithms.</p>
+
+<h2>Key Principles</h2>
+<ul>
+  <li>Data privacy</li>
+  <li>Transparency</li>
+  <li>Accountability</li>
+</ul>
+
+<h2>References</h2>
+<p>
+ACM Code of Ethics. Retrieved from https://www.acm.org/code-of-ethics
+</p>
